@@ -7,6 +7,7 @@ def practice2():
     print('prac2')
 
 
+
 def hapDong():
     print('게임을 시작하지')
 
@@ -15,3 +16,7 @@ def hapDong2():
 
 def hapDong3():
     print('Jungeun2를 merge 후 작성')
+
+def SY1():
+    print('sy')
+
