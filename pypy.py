@@ -5,3 +5,7 @@ func()
 
 def practice2():
     print('prac2')
+
+
+def hapDong():
+    print('게임을 시작하지')
