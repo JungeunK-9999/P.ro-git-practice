@@ -8,3 +8,7 @@ def practice2():
 
 def error1():
     print('e1')
+
+def error2():
+    print('error2')
+
